@@ -1,0 +1,44 @@
+{
+    "name": "ario",
+    "displayName": "Ario",
+    "description": "Ario is a dark theme which aims to improve productivity by using eyes friendly colors.",
+    "version": "0.0.1",
+    "publisher": "rayk0",
+    "repository": "https://github.com/Rayk0/Ario",
+    "icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#1f2127",
+		"theme": "dark"
+	},
+	"author": {
+		"name": "rayk0"
+	},
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"Vscode",
+		"Theme",
+		"Dark",
+		"Fresh",
+		"Rayk0",
+		"Ario",
+        "Eyes",
+        "Friendly",
+        "Winter",
+        "White",
+        "Black"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ario",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ario-color-theme.json"
+            }
+        ]
+    }
+}
