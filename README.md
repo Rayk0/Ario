@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Fresh matching colors with a touch of darkness for your eyes.
+Ario is a dark theme which aims to improve productivity by using eyes friendly colors.
 
 ## Install
 press `ctl/command + p` to launch the command palette then run
